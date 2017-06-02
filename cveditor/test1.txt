@@ -1,0 +1,23 @@
+1.	GENERAL INFORMATION
+Name Apostolis Salomidis
+Address Mpizaniou 15
+Telephone: (Home) 6987048669 (Mobile) 2641032160
+Email: aposalo@gmail.com
+2.	PROFESSIONAL PROFILE
+		Student At Ioannina
+3.	SKILLS AND EXPERIENCE
+	3.1.	SKILLS AND EXPERIENCE ON C++
+			Software Engineering
+4.	CAREER SUMMARY
+		Google,Admin,14-6-1988
+		Apple,CEO,17-9-1925
+5.	EDUCATION AND TRAINING
+		Programmer,Google,Greece,14-6-1988
+		Programmer,Apple,Greece,17-9-1925
+6.	FURTHER COURSES
+		postgraduate,England,Arden,14-6-1988
+		postgraduate,Thessaloniki,Aristoteleio,17-9-1925
+7.	ADDITIONAL INFORMATION
+		Knowledge at Java,C,C++ etc.
+8.	INTERESTS
+		I like sports,cooking etc.
