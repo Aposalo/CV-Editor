@@ -101,10 +101,10 @@ public class OpeningTXTFile extends OpeningFile {
 		array = line.split("	");
 		newArray = array[0].split("	");
 		while(!(newArray[0].equals("4."))){
-			title = array[1]+" "+array[2];
+		title = array[1]+"	"+array[2];
     		skillsAndExperienceTitle.add(title);
-			line = in.readLine();
-			array = line.split(" ");
+		line = in.readLine();
+		array = line.split(" ");
     		newArray = array[0].split("	");
     		
     		numberOfSkills++;
